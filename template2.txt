@@ -7,14 +7,14 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 /* FONT (From Google Fonts) */
 
-@import url('FONT URL');
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
 
 /* BACKGROUND */
 
 body {
-	background: url('BACKGROUND URL') center center fixed;
+	background: url('https://i.imgur.com/I3p6mW8.jpg') center center fixed;
 	background-size: 100%;
-	font-family: 'FONT NAME';
+	font-family: 'Diphylleia', serif';
 	color: #2e2a2b
 }
 
